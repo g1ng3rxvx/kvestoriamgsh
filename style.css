@@ -1,0 +1,63 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: #C4C4C4;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    height: 60px;
+}
+header img {
+    width: 50px;
+}
+a {
+    text-decoration: none;
+}
+nav {
+    background-color: #C4C4C4;
+    height: 45px;
+    text-align: center;
+}
+nav a {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 5px;
+    
+}
+h1, h2 {
+    text-align: center;
+}
+details {
+    border: 5px solid grey;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+footer a {
+    color: white;    
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+table img {
+    width: 100%;
+}
+h3 {
+   text-align: center; 
+}
+a {
+    
+    color: #000;
+}
+.strah {
+    width: 25px;
+}
+table {
+    border: 5px double rgb(56, 56, 56);
+}
+td {
+    border: 3px dashed grey; 
+}
